@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "2nd script"
+echo "Hello from inside the container. Is it anybody out there?"
